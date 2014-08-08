@@ -11,7 +11,6 @@ import java.util.Set;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
-import android.util.Log;
 
 /**
  * 
@@ -22,7 +21,7 @@ import android.util.Log;
  * 3、尽量对应的Model文件名保存为:对应Model中final变量SHAREPREFERENCES_NAME中；
  * 使用SharePreference即可以整个Model操作，也可以根据单个key操作；
  * 
- * @author huang.b
+ * @author zou.sq
  * @date 2013-7-9 下午3:28:55
  * @version 2013-7-9 下午3:28:55
  */

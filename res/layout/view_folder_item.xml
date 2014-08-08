@@ -22,7 +22,6 @@
         android:layout_centerHorizontal="true"
         android:ellipsize="end"
         android:singleLine="true"
-        android:text="文件夹名字"
         android:textColor="@color/black"
         android:textSize="18sp" />
 

@@ -14,7 +14,10 @@ import android.util.Log;
 
 /**
  * 
- * @author qiu.d
+ * Description the class 字符串工具类
+ * 
+ * @version 1.0
+ * @author zou.sq
  * 
  */
 public class StringUtil {

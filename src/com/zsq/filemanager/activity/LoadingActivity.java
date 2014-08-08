@@ -9,7 +9,7 @@ import android.view.KeyEvent;
 
 import com.zsq.filemanager.R;
 
-public class LoadingActivity extends JytActivityBase {
+public class LoadingActivity extends ActivityBase {
 	private static final int DISPLAY_TIME = 3000;
 	private static final String TAG = "LoadingActivity";
 

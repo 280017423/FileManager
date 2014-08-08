@@ -3,7 +3,7 @@ package com.zsq.filemanager.activity;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class JytActivityBase extends Activity {
+public class ActivityBase extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

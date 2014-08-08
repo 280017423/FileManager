@@ -22,7 +22,7 @@ import com.zsq.filemanager.adapter.FolderAdapter;
 import com.zsq.filemanager.util.FileUtil;
 import com.zsq.filemanager.util.OpenFileUtil;
 
-public class MianActivity extends JytActivityBase implements OnClickListener, OnItemClickListener {
+public class MianActivity extends ActivityBase implements OnClickListener, OnItemClickListener {
 	private static final long WAIT_TIME = 2000;
 	private static final int REQUEST_CODE = 1;
 	private GridView mGvRootFolder;

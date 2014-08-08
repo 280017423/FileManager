@@ -9,15 +9,10 @@ package com.zsq.filemanager;
 
 public final class R {
     public static final class anim {
-        public static final int popup_loading=0x7f040000;
-        public static final int push_left_in=0x7f040001;
-        public static final int push_left_out=0x7f040002;
-        public static final int push_right_in=0x7f040003;
-        public static final int push_right_out=0x7f040004;
-        public static final int slide_in_from_bottom=0x7f040005;
-        public static final int slide_in_from_top=0x7f040006;
-        public static final int slide_out_to_bottom=0x7f040007;
-        public static final int slide_out_to_top=0x7f040008;
+        public static final int push_left_in=0x7f040000;
+        public static final int push_left_out=0x7f040001;
+        public static final int push_right_in=0x7f040002;
+        public static final int push_right_out=0x7f040003;
     }
     public static final class array {
         public static final int fileEndingApk=0x7f05000a;
@@ -36,36 +31,11 @@ public final class R {
     public static final class attr {
     }
     public static final class color {
-        /**  橙黄 
-         */
-        public static final int accent_1=0x7f060007;
-        public static final int actionbar_background_end=0x7f060009;
-        public static final int actionbar_background_start=0x7f060008;
-        public static final int black=0x7f060003;
-        public static final int can_not_login_color=0x7f06000e;
-        public static final int choose_teacher_bg=0x7f060013;
-        public static final int divider_line_color=0x7f06000a;
-        public static final int gray=0x7f060005;
-        public static final int header_divider=0x7f060006;
+        public static final int black=0x7f060002;
+        public static final int header_divider=0x7f060003;
         public static final int login_bg=0x7f060001;
-        public static final int main_blue=0x7f060004;
-        public static final int news_content=0x7f060016;
-        /**  新闻 
-         */
-        public static final int news_gray=0x7f060014;
-        public static final int news_thumb_default_bg=0x7f060017;
-        public static final int news_title=0x7f060015;
-        public static final int pop_list_pressed=0x7f060011;
-        public static final int pressed_half_green=0x7f06000b;
-        public static final int red=0x7f060002;
-        public static final int text_color_main=0x7f06000c;
-        /**  文本框背景色 
-         */
-        public static final int text_field_green=0x7f06000f;
-        public static final int text_field_yellow=0x7f060010;
-        public static final int title_bg_blue=0x7f060012;
+        public static final int title_bg_blue=0x7f060004;
         public static final int white=0x7f060000;
-        public static final int white_80_alpha=0x7f06000d;
     }
     public static final class drawable {
         public static final int btn_back_bg=0x7f020000;
@@ -76,26 +46,21 @@ public final class R {
         public static final int folder_selected_shape=0x7f020005;
         public static final int format_apk=0x7f020006;
         public static final int format_chm=0x7f020007;
-        public static final int format_ebook=0x7f020008;
-        public static final int format_excel=0x7f020009;
-        public static final int format_flash=0x7f02000a;
-        public static final int format_folder=0x7f02000b;
-        public static final int format_html=0x7f02000c;
-        public static final int format_lock=0x7f02000d;
-        public static final int format_media=0x7f02000e;
-        public static final int format_music=0x7f02000f;
-        public static final int format_pdf=0x7f020010;
-        public static final int format_picture=0x7f020011;
-        public static final int format_picture_broken=0x7f020012;
-        public static final int format_ppt=0x7f020013;
-        public static final int format_text=0x7f020014;
-        public static final int format_torrent=0x7f020015;
-        public static final int format_unkown=0x7f020016;
-        public static final int format_word=0x7f020017;
-        public static final int format_zip=0x7f020018;
-        public static final int ic_launcher=0x7f020019;
-        public static final int loading_bg=0x7f02001a;
-        public static final int tongyong_button_bg=0x7f02001b;
+        public static final int format_excel=0x7f020008;
+        public static final int format_folder=0x7f020009;
+        public static final int format_html=0x7f02000a;
+        public static final int format_media=0x7f02000b;
+        public static final int format_music=0x7f02000c;
+        public static final int format_pdf=0x7f02000d;
+        public static final int format_picture=0x7f02000e;
+        public static final int format_ppt=0x7f02000f;
+        public static final int format_text=0x7f020010;
+        public static final int format_unkown=0x7f020011;
+        public static final int format_word=0x7f020012;
+        public static final int format_zip=0x7f020013;
+        public static final int ic_launcher=0x7f020014;
+        public static final int loading_bg=0x7f020015;
+        public static final int tongyong_button_bg=0x7f020016;
     }
     public static final class id {
         public static final int btn_path_name=0x7f090006;

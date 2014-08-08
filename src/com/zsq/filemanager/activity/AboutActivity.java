@@ -14,7 +14,7 @@ import com.zsq.filemanager.util.ConstantSet;
 import com.zsq.filemanager.util.SharedPreferenceUtil;
 import com.zsq.filemanager.util.StringUtil;
 
-public class AboutActivity extends JytActivityBase implements OnClickListener {
+public class AboutActivity extends ActivityBase implements OnClickListener {
 
 	private static final int CLICK_COUNT_FIVE = 5;
 	private static int CLICK_COUNT;

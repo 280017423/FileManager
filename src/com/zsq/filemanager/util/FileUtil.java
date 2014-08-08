@@ -13,10 +13,11 @@ import android.os.Environment;
 import android.util.Log;
 
 /**
- * 文件帮助类
  * 
- * @author wang.xy
- * 
+ * Description the class 文件帮助类
+ * @version 1.0
+ * @author zou.sq
+*
  */
 public class FileUtil {
 	public static final int BUFSIZE = 256;

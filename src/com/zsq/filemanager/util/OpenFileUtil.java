@@ -9,10 +9,11 @@ import android.net.Uri;
 import com.zsq.filemanager.R;
 
 /**
- * 打开文件帮助类
  * 
- * @author wang.xy
- * 
+ * Description the class 打开文件帮助类
+ * @version 1.0
+ * @author zou.sq
+*
  */
 public class OpenFileUtil {
 
