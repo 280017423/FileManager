@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">万通资料</string>
+    <string name="title_back_text">返回</string>
+    <string name="no_app_found">没有找到对应的应用程序</string>
+    <string name="once_press_quit">再按一次退出</string>
+    <string name="input_custom_dir">请输入定制目录</string>
+    <string name="about">关于</string>
+    <string name="text_version_code">当前版本&#160;v&#160;%s</string>
+    <string name="unknow_version_name">未知版本</string>
+    <string name="save">保存</string>
+
+</resources>

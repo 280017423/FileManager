@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="login_bg">#F5F5F5</color>
+    <color name="red">#FF0000</color>
+    <color name="black">#000000</color>
+    <color name="main_blue">#05B0DE</color>
+    <color name="gray">#cccccc</color>
+    <color name="header_divider">#d6bf9e</color>
+    <!-- 橙黄 -->
+    <color name="accent_1">#ff29549f</color>
+    <color name="actionbar_background_start">#3A5FCD</color>
+    <color name="actionbar_background_end">#27408B</color>
+    <color name="divider_line_color">#dfdfdf</color>
+    <color name="pressed_half_green">#cde6e5</color>
+    <color name="text_color_main">#149794</color>
+    <color name="white_80_alpha">#ccffffff</color>
+    <color name="can_not_login_color">#3bbf63</color>
+    <!-- 文本框背景色 -->
+    <color name="text_field_green">#179c4e</color>
+    <color name="text_field_yellow">#eeaa2c</color>
+    <color name="pop_list_pressed">#bdbdbd</color>
+    <color name="title_bg_blue">#2D93D9</color>
+    <color name="choose_teacher_bg">#69b0e1</color>
+    <!-- 新闻 -->
+    <color name="news_gray">#9C9C9C</color>
+    <color name="news_title">#D4D4D4</color>
+    <color name="news_content">#3A3A3A</color>
+    <color name="news_thumb_default_bg">#B6B6B6</color>
+
+</resources>
